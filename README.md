@@ -25,3 +25,7 @@ Run the program with **Ctrl+F5**, and the tests with **Test > Run All Tests** (o
 - `BestSeller` and `CategorySummary` need `GroupBy`: group the sales, then `Sum` each group's quantities.
 - `NeverSold`: a snack never sold is one where no sale (`!sales.Any(...)`) is of that snack.
 - `Page`: `Skip` the snacks on the pages before, then `Take` one page.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.
