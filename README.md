@@ -1,6 +1,6 @@
-# Practice: SnackShack
+# Exercise: SnackShack
 
-Practice code for the lesson **Practice: SnackShack** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise code for the lesson **Exercise: SnackShack** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
 The Snack Shack sells chips, cookies and apples from a counter, and its owner has questions: what's cheap, what sells best, what never sells, and how much money came in on Wednesday. You'll answer each one with LINQ.
 
